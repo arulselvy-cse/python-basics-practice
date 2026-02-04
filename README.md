@@ -1,6 +1,19 @@
-# Python Basics for Machine Learning
+# KNN Classification – Customer Purchase Prediction
 
-missing_values.py
-encoding.py
-train_test_split.py
-README.md
+# Algorithm
+K-Nearest Neighbors (KNN)
+
+## Features
+- Age
+- Salary
+
+## Steps
+- Data preparation
+- Feature scaling
+- Model training
+- Prediction
+- Evaluation
+
+
+Arulselvy R
+
