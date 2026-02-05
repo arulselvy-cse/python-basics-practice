@@ -1,14 +1,13 @@
-# Decision Tree Classification
+# Random Forest Classification
 
 ## Algorithm
-Decision Tree Classifier
+Random Forest Classifier
 
 ## Features
 - Age
 - Salary
 
-## Notes
-- Does not require feature scaling
-- Can overfit if depth is not controlled
-
-
+## Advantages
+- Reduces overfitting
+- High accuracy
+- Stable predictions
